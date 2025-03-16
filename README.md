@@ -68,7 +68,7 @@ Once the build process is completed, your application will be ready for deployme
 My News App is a mobile application built using Vue.js and Vuetify, designed to deliver news in an engaging and organized manner. Users can browse, save, and copy articles with ease. The interface is inspired by modern dark-themed UI patterns, enhancing readability and usability.
 
 
-![Home screen](./screenshots/screenshot1.png)
+![Home screen](./screenshots/screenshot1.jpg)
 
 
 ### 🔄 Features
