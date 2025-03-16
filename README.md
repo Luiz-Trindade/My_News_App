@@ -4,9 +4,9 @@ This is the official scaffolding tool for Vuetify, designed to give you a head s
 
 ## ❗️ Important Links
 
-- 📄 [Docs](https://vuetifyjs.com/)
+- 📝 [Docs](https://vuetifyjs.com/)
 - 🚨 [Issues](https://issues.vuetifyjs.com/)
-- 🏬 [Store](https://store.vuetifyjs.com/)
+- 🏢 [Store](https://store.vuetifyjs.com/)
 - 🎮 [Playground](https://play.vuetifyjs.com/)
 - 💬 [Discord](https://community.vuetifyjs.com)
 
@@ -25,11 +25,11 @@ After completing the installation, your environment is ready for Vuetify develop
 
 ## ✨ Features
 
-- 🖼️ **Optimized Front-End Stack**: Leverage the latest Vue 3 and Vuetify 3 for a modern, reactive UI development experience. [Vue 3](https://v3.vuejs.org/) | [Vuetify 3](https://vuetifyjs.com/en/)
-- 🗃️ **State Management**: Integrated with [Pinia](https://pinia.vuejs.org/), the intuitive, modular state management solution for Vue.
+- 🎼 **Optimized Front-End Stack**: Leverage the latest Vue 3 and Vuetify 3 for a modern, reactive UI development experience. [Vue 3](https://v3.vuejs.org/) | [Vuetify 3](https://vuetifyjs.com/en/)
+- 💃 **State Management**: Integrated with [Pinia](https://pinia.vuejs.org/), the intuitive, modular state management solution for Vue.
 - 🚦 **Routing and Layouts**: Utilizes Vue Router for SPA navigation and vite-plugin-vue-layouts for organizing Vue file layouts. [Vue Router](https://router.vuejs.org/) | [vite-plugin-vue-layouts](https://github.com/JohnCampionJr/vite-plugin-vue-layouts)
 - ⚡ **Next-Gen Tooling**: Powered by Vite, experience fast cold starts and instant HMR (Hot Module Replacement). [Vite](https://vitejs.dev/)
-- 🧩 **Automated Component Importing**: Streamline your workflow with unplugin-vue-components, automatically importing components as you use them. [unplugin-vue-components](https://github.com/antfu/unplugin-vue-components)
+- 🧐 **Automated Component Importing**: Streamline your workflow with unplugin-vue-components, automatically importing components as you use them. [unplugin-vue-components](https://github.com/antfu/unplugin-vue-components)
 
 These features are curated to provide a seamless development experience from setup to deployment, ensuring that your Vuetify application is both powerful and maintainable.
 
@@ -61,6 +61,43 @@ yarn build
 
 Once the build process is completed, your application will be ready for deployment in a production environment.
 
+## 💪 My News App
+
+### 📰 Overview
+
+My News App is a mobile application built using Vue.js and Vuetify, designed to deliver news in an engaging and organized manner. Users can browse, save, and copy articles with ease. The interface is inspired by modern dark-themed UI patterns, enhancing readability and usability.
+
+
+![Home screen](./screenshots/screenshot1.png)
+
+
+### 🔄 Features
+
+- **Home Feed**: Displays the latest news articles in a scrollable format.
+- **Favorites**: Users can save articles to their favorites list.
+- **Topics**: News is categorized into different topics for better content discovery.
+- **Copy & Save Options**: Users can copy article links or save them for later reading.
+- **Dark Mode Support**: Designed with a clean and visually appealing dark mode interface.
+
+### 🚀 Technologies Used
+
+- **Vue 3 + Vuetify**: For building the UI components.
+- **Vue Router**: For seamless navigation between pages.
+- **NewsAPI**: Fetching real-time news articles.
+- **Cordova**: Used for deploying the app to mobile devices.
+
+### 💡 How to Run
+
+```bash
+yarn install
+yarn dev
+```
+
+To build for production:
+```bash
+yarn build
+```
+
 ## 💪 Support Vuetify Development
 
 This project is built with [Vuetify](https://vuetifyjs.com/en/), a UI Library with a comprehensive collection of Vue components. Vuetify is an MIT licensed Open Source project that has been made possible due to the generous contributions by our [sponsors and backers](https://vuetifyjs.com/introduction/sponsors-and-backers/). If you are interested in supporting this project, please consider:
@@ -73,8 +110,8 @@ This project is built with [Vuetify](https://vuetifyjs.com/en/), a UI Library wi
 - [Becoming a subscriber on Tidelift](https://tidelift.com/subscription/npm/vuetify)
 - [Making a one-time donation with Paypal](https://paypal.me/vuetify)
 
-## 📑 License
+## 👑 License
 [MIT](./LICENSE.txt)
 
 Copyright (c) 2016-present Vuetify, LLC
-# My_News_App
+
